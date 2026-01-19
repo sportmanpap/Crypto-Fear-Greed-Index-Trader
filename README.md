@@ -36,7 +36,7 @@
 - База для будущего: свечи, алерты, мульти-пары, Telegram-уведомления
 
 <p align="center">
-  <img src="assets/screenshot-main-2026.png" width="900" alt="Главный экран — цена + Fear & Greed"/>
+  <img src="assets/screenshot-main-2026.png.jpg" width="900" alt="Главный экран — цена + Fear & Greed"/>
   <br/>
   <sub>Тёмная тема, неон, чистота — всё, что любят трейдеры в 2026</sub>
 </p>
