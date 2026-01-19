@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="icon.jpg" width="300" alt="Main screen — Price + Fear & Greed">
+  <img src="assets/icon.jpg" width="300" alt="Main screen — Price + Fear & Greed">
   <br/>
   <sub>Trade not just the chart. Trade market emotions.</sub>
 </p>
@@ -33,7 +33,7 @@
 - Clear signal: **BUY 🟢** / **HOLD ⚪** / **SELL 🔴**
 - Dark neon interface inspired by TradingView + Binance
 - One-click launch — single .exe file (~60 MB), no Python installation required
-- Solid foundation for future features: candlesticks, alerts, multi-pair support, Telegram notifications
+- Solid foundation for future features: candlesticks, alerts, multi-pair support
 
 <p align="center">
   <img src="assets/screenshot-main-2026.png.jpg" width="500" alt="Main screen — Price + Fear & Greed"/>
