@@ -49,6 +49,17 @@
 
 Done. No installation, no API keys (for now).
 
+<p align="center">
+  <a href="https://github.com/sportmanpap/Crypto-Fear-Greed-Index-Trader/releases" target="_blank">
+    <img 
+      src="assets/Download.png"
+      alt="Download latest release"
+      width="420"
+    />
+  </a>
+</p>
+
+
 ## Signal logic (classic 2018–2026)
 
 | Fear & Greed   | Zone              | Signal     | Market Emotion             |
@@ -73,13 +84,3 @@ Done. No installation, no API keys (for now).
 - Support for ETH, SOL, BNB and other pairs
 - Customizable thresholds (not just 30/70)
 - Simple backtesting of the strategy
-
-<p align="center">
-  <a href="https://github.com/hikkaq/crypto-fear-greed-trader/releases" target="_blank">
-    <img 
-      src="assets/Download.png"
-      alt="Download latest release"
-      width="420"
-    />
-  </a>
-</p>
