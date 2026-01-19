@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/screenshot-main2-2026.png.jpg" width="300" alt="Main screen — Price + Fear & Greed">
+  <img src="icon.jpg" width="300" alt="Main screen — Price + Fear & Greed">
   <br/>
   <sub>Trade not just the chart. Trade market emotions.</sub>
 </p>
