@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/screenshot-main2-2026.png" width="900" alt="Main screen — Price + Fear & Greed">
+  <img src="screenshot-main2-2026.png.jpg" width="900" alt="Main screen — Price + Fear & Greed">
   <br/>
   <sub>Trade not just the chart. Trade market emotions.</sub>
 </p>
@@ -36,7 +36,7 @@
 - Solid foundation for future features: candlesticks, alerts, multi-pair support, Telegram notifications
 
 <p align="center">
-  <img src="assets/screenshot-main-2026.png" width="900" alt="Main screen — Price + Fear & Greed"/>
+  <img src="screenshot-main-2026.png.jpg" width="900" alt="Main screen — Price + Fear & Greed"/>
   <br/>
   <sub>Dark theme, neon accents, clean layout — everything traders love in 2026</sub>
 </p>
