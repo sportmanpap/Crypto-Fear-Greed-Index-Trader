@@ -69,11 +69,10 @@ Done. No installation, no API keys (for now).
 
 - Real Japanese candlesticks (lightweight-charts or Binance websocket)
 - Colored Fear/Greed zones directly on the chart
-- Notifications via Telegram / Windows Toast
+- Notifications via Windows Toast
 - Support for ETH, SOL, BNB and other pairs
 - Customizable thresholds (not just 30/70)
 - Simple backtesting of the strategy
-- Cross-platform support (macOS / Linux)
 
 ## Installation from source (for developers)
 
