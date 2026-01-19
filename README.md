@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://via.placeholder.com/1280x640/0b0f1a/00ff9d?text=Crypto+Fear+%26+Greed+Trader" alt="Crypto Fear & Greed Trader — 2026" width="900"/>
+  <img src="assets/screenshot-main2-2026.png" width="900" alt="Main screen — Price + Fear & Greed">
   <br/>
   <sub>Trade not just the chart. Trade market emotions.</sub>
 </p>
