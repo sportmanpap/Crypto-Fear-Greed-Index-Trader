@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://via.placeholder.com/1280x640/0b0f1a/00ff9d?text=Crypto+Fear+%26+Greed+Trader" alt="Crypto Fear & Greed Trader — 2026" width="900"/>
   <br/>
-  <sub>Торгуй не только графиком. Торгуй эмоциями рынка.</sub>
+  <sub>Trade not just the chart. Trade market emotions.</sub>
 </p>
 
 <h1 align="center">Crypto Fear & Greed Index Trader</h1>
@@ -23,59 +23,59 @@
 </p>
 
 <p align="center">
-  Один из самых стильных и понятных десктопных инструментов 2026 года,<br/>
-  который показывает цену BTC/USDT и <strong>Fear & Greed Index</strong> в одном окне — как на профессиональном терминале.
+  One of the most stylish and intuitive desktop tools of 2026,<br/>
+  combining BTC/USDT price and the <strong>Fear & Greed Index</strong> in a single professional-grade window.
 </p>
 
-## ✨ Что ты получаешь сразу после запуска
+## ✨ What you get right after launch
 
-- Живой **Fear & Greed Index** прямо с alternative.me (обновляется каждые 5–15 минут)
-- Чёткий сигнал: **BUY 🟢** / **HOLD ⚪** / **SELL 🔴**
-- Тёмный неоновый интерфейс в духе TradingView + Binance
-- Лёгкий запуск — один .exe файл (~60 МБ), Python не нужен
-- База для будущего: свечи, алерты, мульти-пары, Telegram-уведомления
+- Live **Fear & Greed Index** from alternative.me (updates every 5–15 minutes)
+- Clear signal: **BUY 🟢** / **HOLD ⚪** / **SELL 🔴**
+- Dark neon interface inspired by TradingView + Binance
+- One-click launch — single .exe file (~60 MB), no Python installation required
+- Solid foundation for future features: candlesticks, alerts, multi-pair support, Telegram notifications
 
 <p align="center">
-  <img src="assets/screenshot-main-2026.png.jpg" width="900" alt="Главный экран — цена + Fear & Greed"/>
+  <img src="assets/screenshot-main-2026.png" width="900" alt="Main screen — Price + Fear & Greed"/>
   <br/>
-  <sub>Тёмная тема, неон, чистота — всё, что любят трейдеры в 2026</sub>
+  <sub>Dark theme, neon accents, clean layout — everything traders love in 2026</sub>
 </p>
 
-## Как пользоваться (30 секунд)
+## How to use (30 seconds)
 
-1. Скачай последнюю версию → **[Releases → CryptoFearGreedTrader.exe](https://github.com/hikkaq/crypto-fear-greed-trader/releases)**
-2. Запусти файл
-3. Смотри текущий индекс и сигнал
+1. Download the latest version → **[Releases → CryptoFearGreedTrader.exe](https://github.com/hikkaq/crypto-fear-greed-trader/releases)**
+2. Run the file
+3. Watch the current index and signal
 
-Готово. Никакой установки, никаких ключей API (пока).
+Done. No installation, no API keys (for now).
 
-## Логика сигналов (классика 2018–2026)
+## Signal logic (classic 2018–2026)
 
-| Fear & Greed     | Зона              | Сигнал     | Эмоция рынка          |
-|------------------|-------------------|------------|-----------------------|
-| 0–24             | Extreme Fear      | **BUY**    | Паника → дно?         |
-| 25–49            | Fear              | **BUY**    | Страх → хорошая цена  |
-| 50–74            | Neutral → Greed   | **HOLD**   | Рынок спокоен         |
-| 75–100           | Greed / Extreme   | **SELL**   | Эйфория → вершина?    |
+| Fear & Greed   | Zone              | Signal     | Market Emotion             |
+|----------------|-------------------|------------|----------------------------|
+| 0–24           | Extreme Fear      | **BUY**    | Panic → bottom?            |
+| 25–49          | Fear              | **BUY**    | Fear → attractive price    |
+| 50–74          | Neutral → Greed   | **HOLD**   | Market is calm             |
+| 75–100         | Greed / Extreme   | **SELL**   | Euphoria → top?            |
 
-## 🛠 Технологии под капотом
+## 🛠 Technologies under the hood
 
-- **customtkinter** — самый красивый GUI для Python в 2025–2026
-- **matplotlib** — надёжные графики
-- **requests** — живые данные Fear & Greed
-- **PyInstaller** → один .exe для Windows
+- **customtkinter** — the most beautiful GUI for Python in 2025–2026
+- **matplotlib** — reliable charting
+- **requests** — live Fear & Greed data
+- **PyInstaller** → single .exe for Windows
 
-## 🚀 Что можно добавить (и я помогу)
+## 🚀 Planned features (happy to help implement)
 
-- Реальные японские свечи (lightweight-charts или binance websocket)
-- Цветные зоны страха/жадности прямо на графике
-- Уведомления в Telegram / Windows Toast
-- Поддержка ETH, SOL, BNB и других пар
-- Настраиваемые пороги (не 30/70, а свои)
-- Лёгкий backtest стратегии
-- Кроссплатформенность (macOS / Linux)
+- Real Japanese candlesticks (lightweight-charts or Binance websocket)
+- Colored Fear/Greed zones directly on the chart
+- Notifications via Telegram / Windows Toast
+- Support for ETH, SOL, BNB and other pairs
+- Customizable thresholds (not just 30/70)
+- Simple backtesting of the strategy
+- Cross-platform support (macOS / Linux)
 
-## Установка из исходников (для разработчиков)
+## Installation from source (for developers)
 
 ```bash
 git clone https://github.com/hikkaq/crypto-fear-greed-trader.git
