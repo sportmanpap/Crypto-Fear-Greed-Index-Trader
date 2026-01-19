@@ -7,7 +7,7 @@
 <h1 align="center">Crypto Fear & Greed Index Trader</h1>
 
 <p align="center">
-  <a href="https://github.com/hikkaq/crypto-fear-greed-trader/stargazers">
+  <a href="https://github.com/sportmanpap/Crypto-Fear-Greed-Index-Trader/stargazers">
     <img src="https://img.shields.io/github/stars/hikkaq/crypto-fear-greed-trader?style=for-the-badge&color=00ff9d&logoColor=white" alt="Stars"/>
   </a>
   <a href="https://github.com/sportmanpap/Crypto-Fear-Greed-Index-Trader/releases">
